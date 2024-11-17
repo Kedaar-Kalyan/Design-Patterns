@@ -1,1 +1,0 @@
-The decorator pattern allows you to alter behavior dynamically, without affecting other objects of the same type

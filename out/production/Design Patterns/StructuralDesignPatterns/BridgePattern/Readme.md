@@ -1,1 +1,0 @@
-It decouple the concrete implementation from the interface and gives us more flexibility.
