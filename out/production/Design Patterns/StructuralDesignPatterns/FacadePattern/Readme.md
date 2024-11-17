@@ -1,0 +1,1 @@
+A facade is used to allow the user to perform complex processes with simple actions.

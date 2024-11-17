@@ -1,0 +1,1 @@
+The composite pattern is used when single objects and multiple objects should be treated uniformly

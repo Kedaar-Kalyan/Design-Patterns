@@ -1,0 +1,1 @@
+The proxy pattern allows you to put off expensive operations until they are used.
